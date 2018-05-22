@@ -1,0 +1,6 @@
+# Exclude these files
+.idea/
+.git/
+fixed_screen/
+positive_selection/
+synthetic_lethality/
